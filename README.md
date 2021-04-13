@@ -1,3 +1,10 @@
+# Holi soy un mensaje de la alpaca
+
+## Esto es unheading #2
+
+**this is a bold message**
+´´´waka´´´
+
 # Programación Creativa con JavaScript
 
 Este espacio lo vamos a utilizar como introducción a la programación creativa.
@@ -14,23 +21,26 @@ A veces les ayudo y a veces los instigo.
 
 ## Contenido
 
-* [Glosario](/Glosario.md)
-* [Plantillas](/plantillas)
-* [HTML](/HTML.md)
+- [Glosario](/Glosario.md)
+- [Plantillas](/plantillas)
+- [HTML](/HTML.md)
 
 ## Ejercicio 1: Instalar herramientas
 
 Una de las habilidades más importantes de un programador es saber buscar en internet. El primer ejercicio es buscar como instalar las siguientes herramientas en su computador.
 
 **Mac**
+
 - Homebrew
 - iterm2
 
 **Windows**
+
 - Chocolatey
 - Cmder
 
 Con esto instalado, usarlos para instalar las siguientes aplicaciones
+
 - NodeJS
 - Git
 - Yarn
