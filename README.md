@@ -1,9 +1,5 @@
-# Holi soy un mensaje de la alpaca
 
-## Esto es unheading #2
 
-**this is a bold message**
-´´´waka´´´
 
 # Programación Creativa con JavaScript
 
@@ -69,5 +65,5 @@ Ir a [Glosario](Glosario.md)
 - ..:: Antonia Bustamante ::..
 - ..:: Jeanniffer Pimentel ::..
 - ..:: Hugo Idárraga ::..
-- ..:: Lina Orejuela ::../LaTiNx - CyBorG95!
+- ..:: Lina Orejuela ::..
 - ..:: Julián García ::..
